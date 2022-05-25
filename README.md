@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning the MERN-stack
+- 📫 How to reach me: sprenger-marvin@outlook.de
+
 <!--
 **smarvin96/smarvin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
