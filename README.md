@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning the MERN-stack
+- ⚡ DCI Student
 - 📫 How to reach me: sprenger-marvin@outlook.de
 
 <!--
