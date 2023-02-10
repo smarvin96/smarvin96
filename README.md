@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-- ⚡ DCI Student
-- 📫 How to reach me: sprenger-marvin@outlook.de | https://t.me/smarvin96
+
+- 📫 How to reach me:
+     E-Mail: sprenger-marvin@outlook.de
+     Telegram: https://t.me/smarvin96
 
 <!--
 **smarvin96/smarvin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
