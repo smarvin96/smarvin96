@@ -2,7 +2,7 @@
 
 
 
-- 📫 How to reach me: Telegram: https://t.me/smarvin96 | E-Mail: sprenger-marvin@outlook.de
+- 📫 How to reach me: Telegram: https://t.me/smarvin96 || E-Mail: sprenger-marvin@outlook.de
      
 
 <!--
